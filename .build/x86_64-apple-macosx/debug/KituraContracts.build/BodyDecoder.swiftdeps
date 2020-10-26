@@ -1,0 +1,64 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BodyDecoder"
+provides-nominal:
+- "15KituraContracts11BodyDecoderP"
+- "10Foundation11JSONDecoderC"
+provides-member:
+- ["15KituraContracts11BodyDecoderP", ""]
+- ["10Foundation11JSONDecoderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyObject"
+- "BodyDecoder"
+- "Data"
+- "Decodable"
+- "JSONDecoder"
+depends-member:
+- ["15KituraContracts11BodyDecoderP", "Data"]
+- ["15KituraContracts11BodyDecoderP", "Decodable"]
+- ["15KituraContracts11BodyDecoderP", ""]
+- ["15KituraContracts11BodyDecoderP", "decode"]
+- ["10Foundation11JSONDecoderC", ""]
+- ["10Foundation11JSONDecoderC", "decode"]
+- ["7Combine15TopLevelDecoderP", "decode"]
+depends-nominal:
+- "15KituraContracts11BodyDecoderP"
+- "10Foundation11JSONDecoderC"
+- "7Combine15TopLevelDecoderP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Kitura.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/TypeDecoder.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraContracts.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "20293fee3ee0770190b25f53be2647dc"

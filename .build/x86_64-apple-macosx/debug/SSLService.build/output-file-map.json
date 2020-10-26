@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/master.swiftdeps"
+  },
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/BlueSSLService/Sources/SSLService/SSLPointerTricks.swift": {
+    "dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLPointerTricks.d",
+    "object": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLPointerTricks.swiftdeps"
+  },
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/BlueSSLService/Sources/SSLService/SSLService.swift": {
+    "dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLService.d",
+    "object": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLService.swift.o",
+    "swiftmodule": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLService~partial.swiftmodule",
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/SSLService.swiftdeps"
+  }
+}

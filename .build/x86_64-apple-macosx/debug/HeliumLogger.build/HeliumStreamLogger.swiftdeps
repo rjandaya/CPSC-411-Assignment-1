@@ -1,0 +1,112 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HeliumStreamLogger"
+provides-nominal:
+- "12HeliumLogger0a6StreamB0C"
+provides-member:
+- ["12HeliumLogger0a6StreamB0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- "HeliumLogger"
+- "HeliumStreamLogger"
+- !private "Log"
+- "LoggerMessageType"
+- "OutputStream"
+- "String"
+- !private "StringLiteralType"
+- "TextOutputStream"
+- !private "outputStream"
+- !private "print"
+depends-member:
+- !private ["s23CustomStringConvertibleP", "verbose"]
+- !private ["SQ", ""]
+- !private ["SQ", "verbose"]
+- !private ["SH", "verbose"]
+- !private ["12HeliumLoggerAAC", "HeliumStreamLogger"]
+- !private ["12HeliumLoggerAAC", "Log"]
+- ["12HeliumLoggerAAC", "LoggerMessageType"]
+- ["12HeliumLoggerAAC", "String"]
+- ["12HeliumLoggerAAC", ""]
+- ["12HeliumLoggerAAC", "doPrint"]
+- ["12HeliumLoggerAAC", "init"]
+- ["12HeliumLoggerAAC", "outputStream"]
+- !private ["12HeliumLoggerAAC", "print"]
+- ["12HeliumLoggerAAC", "use"]
+- !private ["12HeliumLogger0a6StreamB0C", "HeliumStreamLogger"]
+- !private ["12HeliumLogger0a6StreamB0C", "Log"]
+- ["12HeliumLogger0a6StreamB0C", "LoggerMessageType"]
+- ["12HeliumLogger0a6StreamB0C", "String"]
+- !private ["12HeliumLogger0a6StreamB0C", ""]
+- ["12HeliumLogger0a6StreamB0C", "deinit"]
+- ["12HeliumLogger0a6StreamB0C", "doPrint"]
+- ["12HeliumLogger0a6StreamB0C", "init"]
+- !private ["12HeliumLogger0a6StreamB0C", "outputStream"]
+- !private ["12HeliumLogger0a6StreamB0C", "print"]
+- ["12HeliumLogger0a6StreamB0C", "use"]
+- !private ["9LoggerAPI3LogC", "logger"]
+- !private ["9LoggerAPI0A0P", "HeliumStreamLogger"]
+- !private ["9LoggerAPI0A0P", "Log"]
+- ["9LoggerAPI0A0P", ""]
+- !private ["9LoggerAPI0A0P", "doPrint"]
+- !private ["9LoggerAPI0A0P", "init"]
+- !private ["9LoggerAPI0A0P", "outputStream"]
+- !private ["9LoggerAPI0A0P", "print"]
+- !private ["9LoggerAPI0A0P", "use"]
+- !private ["9LoggerAPI0A11MessageTypeO", "verbose"]
+- !private ["So8NSCodingP", ""]
+- !private ["So8NSObjectP", ""]
+- !private ["SY", "verbose"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "SH"
+- "12HeliumLoggerAAC"
+- "12HeliumLogger0a6StreamB0C"
+- !private "9LoggerAPI3LogC"
+- "9LoggerAPI0A0P"
+- !private "9LoggerAPI0A11MessageTypeO"
+- !private "So8NSCodingP"
+- !private "So8NSObjectP"
+- !private "SY"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Kitura.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/TypeDecoder.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraContracts.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "94d1e8f7fb59015725eaad8ee34b3ab2"

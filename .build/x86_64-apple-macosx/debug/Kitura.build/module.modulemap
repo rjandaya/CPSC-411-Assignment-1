@@ -1,0 +1,4 @@
+module Kitura {
+    header "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Kitura.build/Kitura-Swift.h"
+    requires objc
+}

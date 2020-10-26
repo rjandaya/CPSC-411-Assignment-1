@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "8b3d5684b3436aaebc5fee8fc022eeda"
+build_time: [1603350945, 368061000]
+inputs:
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/HeliumLogger/Sources/HeliumLogger/HeliumLogHandler.swift": [1603350910, 683726619]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/HeliumLogger/Sources/HeliumLogger/HeliumLogger.swift": [1603350910, 683993168]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/HeliumLogger/Sources/HeliumLogger/HeliumStreamLogger.swift": [1603350910, 684261199]

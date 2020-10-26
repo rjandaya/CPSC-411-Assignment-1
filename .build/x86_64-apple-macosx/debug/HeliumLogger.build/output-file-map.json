@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/master.swiftdeps"
+  },
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/HeliumLogger/Sources/HeliumLogger/HeliumLogHandler.swift": {
+    "dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogHandler.d",
+    "object": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogHandler.swift.o",
+    "swiftmodule": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogHandler.swiftdeps"
+  },
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/HeliumLogger/Sources/HeliumLogger/HeliumLogger.swift": {
+    "dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogger.d",
+    "object": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogger.swift.o",
+    "swiftmodule": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumLogger.swiftdeps"
+  },
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/HeliumLogger/Sources/HeliumLogger/HeliumStreamLogger.swift": {
+    "dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumStreamLogger.d",
+    "object": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumStreamLogger.swift.o",
+    "swiftmodule": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumStreamLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/HeliumStreamLogger.swiftdeps"
+  }
+}

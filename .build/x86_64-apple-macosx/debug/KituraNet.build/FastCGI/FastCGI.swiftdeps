@@ -1,0 +1,177 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FastCGI"
+provides-nominal:
+- "9KituraNet7FastCGIC"
+- "9KituraNet7FastCGIC9ConstantsV"
+- "9KituraNet7FastCGIC12RecordErrorsO"
+provides-member:
+- ["9KituraNet7FastCGIC", ""]
+- ["9KituraNet7FastCGIC9ConstantsV", ""]
+- ["9KituraNet7FastCGIC12RecordErrorsO", ""]
+provides-dynamic-lookup:
+- "createServer"
+depends-top-level:
+- "=="
+- "FastCGI"
+- "FastCGIServer"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "Swift"
+- "UInt16"
+- "UInt8"
+depends-member:
+- ["9KituraNet7FastCGIC9ConstantsV", "FASTCGI_DEFAULT_REQUEST_ID"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FASTCGI_PROTOCOL_VERSION"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_BEGIN_REQUEST"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_CANT_MPX_CONN"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_END_REQUEST"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_KEEP_CONN"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_NO_ROLE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_NO_TYPE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_PARAMS"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_REQUEST_COMPLETE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_RESPONDER"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_STDIN"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_STDOUT"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_SUBTYPE_NO_TYPE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_UNKNOWN_ROLE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_HTTP_HOST"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_REQUEST_METHOD"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_REQUEST_SCHEME"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_REQUEST_URI"]
+- ["9KituraNet7FastCGIC9ConstantsV", "String"]
+- ["9KituraNet7FastCGIC9ConstantsV", "UInt16"]
+- ["9KituraNet7FastCGIC9ConstantsV", "UInt8"]
+- ["9KituraNet7FastCGIC9ConstantsV", "init"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- ["SQ", "code"]
+- ["SQ", "domain"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "userInfo"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "code"]
+- ["s5ErrorP", "domain"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["s5ErrorP", "userInfo"]
+- ["9KituraNet7FastCGIC", "Constants"]
+- ["9KituraNet7FastCGIC", "FastCGIServer"]
+- ["9KituraNet7FastCGIC", "RecordErrors"]
+- ["9KituraNet7FastCGIC", "String"]
+- ["9KituraNet7FastCGIC", "Swift"]
+- ["9KituraNet7FastCGIC", "UInt16"]
+- ["9KituraNet7FastCGIC", "UInt8"]
+- ["9KituraNet7FastCGIC", "createServer"]
+- ["9KituraNet7FastCGIC", "deinit"]
+- ["9KituraNet7FastCGIC", "init"]
+- !private ["9KituraNet13FastCGIServerC", "init"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- ["SH", "code"]
+- ["SH", "domain"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "userInfo"]
+- !private ["s6HasherV", "combine"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "=="]
+- ["9KituraNet7FastCGIC12RecordErrorsO", ""]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "__derived_enum_equals"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_code"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_domain"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_getEmbeddedNSError"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_rawHashValue"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_userInfo"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "bufferExhausted"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "code"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "domain"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "emptyParameters"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "hash"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "hashValue"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "internalError"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidRequestId"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidRole"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidSubType"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidType"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidVersion"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "oversizeData"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "protocolError"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "unsupportedRole"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "userInfo"]
+- !private ["9KituraNet6ServerP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "9KituraNet7FastCGIC9ConstantsV"
+- "SQ"
+- "s5ErrorP"
+- "9KituraNet7FastCGIC"
+- !private "9KituraNet13FastCGIServerC"
+- "SH"
+- !private "s6HasherV"
+- "9KituraNet7FastCGIC12RecordErrorsO"
+- !private "9KituraNet6ServerP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CHTTPParser/include/utils.h"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Kitura.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/TypeDecoder.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraContracts.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "92a26a8f6ae6fce56e2047a077eb66fc"

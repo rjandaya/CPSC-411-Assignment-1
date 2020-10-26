@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "98bf696294503ec85629651640a0c200"
+build_time: [1603350945, 370055000]
+inputs:
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/BodyDecoder.swift": [1603350911, 712697942]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/BodyEncoder.swift": [1603350911, 712959969]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/BodyFormat.swift": [1603350911, 713255865]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/ClosureAliases.swift": [1603350911, 713588626]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/CodableQuery/Coder.swift": [1603350911, 714799958]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/CodableQuery/Extensions.swift": [1603350911, 715220575]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/CodableQuery/QueryDecoder.swift": [1603350911, 715654410]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/CodableQuery/QueryEncoder.swift": [1603350911, 716093290]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/KituraContracts/Sources/KituraContracts/Contracts.swift": [1603350911, 716849646]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "d1454389c71df6bf7297c13a853bf5f4"
+build_time: [1603350949, 64385000]
+inputs:
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/BlueSSLService/Sources/SSLService/SSLPointerTricks.swift": [1603350910, 379787062]
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/BlueSSLService/Sources/SSLService/SSLService.swift": [1603350910, 380403492]

@@ -1,0 +1,29 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/rjandaya\/Downloads\/CPSC 411\/RestfulServer\/.build\/x86_64-apple-macosx\/debug\/RestfulServerPackageTests.xctest\/Contents\/MacOS\/RestfulServerPackageTests",
+      "packageName" : "RestfulServer",
+      "productName" : "RestfulServerPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.HeliumLogger-debug.module" : "HeliumLogger",
+    "C.Kitura-debug.module" : "Kitura",
+    "C.KituraContracts-debug.module" : "KituraContracts",
+    "C.KituraNet-debug.module" : "KituraNet",
+    "C.KituraTemplateEngine-debug.module" : "KituraTemplateEngine",
+    "C.LoggerAPI-debug.module" : "LoggerAPI",
+    "C.Logging-debug.module" : "Logging",
+    "C.RestfulServer-debug.module" : "RestfulServer",
+    "C.RestfulServerTests-debug.module" : "RestfulServerTests",
+    "C.Socket-debug.module" : "Socket",
+    "C.SSLService-debug.module" : "SSLService",
+    "C.TypeDecoder-debug.module" : "TypeDecoder"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

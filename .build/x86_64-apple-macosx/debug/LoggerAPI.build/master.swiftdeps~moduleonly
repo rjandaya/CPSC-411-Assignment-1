@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "5bd863b07f8e7a37524f74479fb034fe"
+build_time: [1603350927, 440629000]
+inputs:
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/LoggerAPI/Sources/LoggerAPI/Logger.swift": [1603350913, 437289803]

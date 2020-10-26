@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/master.swiftdeps"
+  },
+  "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/LoggerAPI/Sources/LoggerAPI/Logger.swift": {
+    "dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/Logger.d",
+    "object": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/Logger.swift.o",
+    "swiftmodule": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/Logger.swiftdeps"
+  }
+}

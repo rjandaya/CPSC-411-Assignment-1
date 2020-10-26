@@ -1,0 +1,4 @@
+module KituraNet {
+    header "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.build/KituraNet-Swift.h"
+    requires objc
+}

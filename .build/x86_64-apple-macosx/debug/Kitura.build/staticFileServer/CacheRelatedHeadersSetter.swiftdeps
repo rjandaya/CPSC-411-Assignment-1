@@ -1,0 +1,350 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC"
+provides-member:
+- ["6Kitura16StaticFileServerC", ""]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", ""]
+- ["6Kitura16StaticFileServerC", "CacheRelatedHeadersSetter"]
+provides-dynamic-lookup:
+- "addETag"
+- "addLastModified"
+- "addLastModifiedHeader"
+- "calculateETag"
+- "generateETag"
+- "maxAgeCacheControlHeader"
+- "setCustomResponseHeaders"
+- "setMaxAge"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CacheRelatedHeadersSetter"
+- "CastingPrecedence"
+- "Date"
+- "FileAttributeKey"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "NSNumber"
+- "ResponseHeadersSetter"
+- "RouterResponse"
+- !private "SPIUtils"
+- "StaticFileServer"
+- "String"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+- !private "addETag"
+- !private "addLastModified"
+- !private "addLastModifiedHeader"
+- !private "generateETag"
+- !private "maxAgeCacheControlHeader"
+- !private "setMaxAge"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- ["SK", ""]
+- !private ["SK", "init"]
+- !private ["Sz", ""]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "Bool"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "Date"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "FileAttributeKey"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "Int"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "NSNumber"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "RouterResponse"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "SPIUtils"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "String"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "addETag"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "addLastModified"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "addLastModifiedHeader"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "calculateETag"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "deinit"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "generateETag"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "init"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "maxAgeCacheControlHeader"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "setCustomResponseHeaders"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "setMaxAge"]
+- !private ["Sl", "Element"]
+- !private ["Sl", "Index"]
+- !private ["Sl", "Indices"]
+- !private ["Sl", "Iterator"]
+- !private ["Sl", "SubSequence"]
+- ["Sl", ""]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- ["SL", ""]
+- !private ["SL", "init"]
+- !private ["SL", "timeIntervalSince1970"]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- !private ["Se", ""]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "timeIntervalSince1970"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- !private ["SE", ""]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "timeIntervalSince1970"]
+- ["SQ", ""]
+- !private ["SQ", "init"]
+- !private ["SQ", "modificationDate"]
+- !private ["SQ", "size"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So18NSFileAttributeKeya", "modificationDate"]
+- !private ["So18NSFileAttributeKeya", "size"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["SH", ""]
+- !private ["SH", "init"]
+- !private ["SH", "modificationDate"]
+- !private ["SH", "size"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeIntervalSince1970"]
+- !private ["6Kitura7HeadersV", ""]
+- !private ["6Kitura7HeadersV", "subscript"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["Si", "init"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", ""]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", ""]
+- !private ["SY", "modificationDate"]
+- !private ["SY", "size"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["6Kitura21ResponseHeadersSetterP", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura21ResponseHeadersSetterP", "FileAttributeKey"]
+- !private ["6Kitura21ResponseHeadersSetterP", "Int"]
+- !private ["6Kitura21ResponseHeadersSetterP", "SPIUtils"]
+- !private ["6Kitura21ResponseHeadersSetterP", "String"]
+- ["6Kitura21ResponseHeadersSetterP", ""]
+- !private ["6Kitura21ResponseHeadersSetterP", "addETag"]
+- !private ["6Kitura21ResponseHeadersSetterP", "addLastModified"]
+- !private ["6Kitura21ResponseHeadersSetterP", "addLastModifiedHeader"]
+- !private ["6Kitura21ResponseHeadersSetterP", "calculateETag"]
+- !private ["6Kitura21ResponseHeadersSetterP", "generateETag"]
+- !private ["6Kitura21ResponseHeadersSetterP", "maxAgeCacheControlHeader"]
+- ["6Kitura21ResponseHeadersSetterP", "setCustomResponseHeaders"]
+- !private ["6Kitura21ResponseHeadersSetterP", "setMaxAge"]
+- !private ["6Kitura16RouterMiddlewareP", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16RouterMiddlewareP", "FileAttributeKey"]
+- !private ["6Kitura16RouterMiddlewareP", "Int"]
+- ["6Kitura16RouterMiddlewareP", "ResponseHeadersSetter"]
+- !private ["6Kitura16RouterMiddlewareP", "SPIUtils"]
+- !private ["6Kitura16RouterMiddlewareP", "String"]
+- !private ["6Kitura16RouterMiddlewareP", "addETag"]
+- !private ["6Kitura16RouterMiddlewareP", "addLastModified"]
+- !private ["6Kitura16RouterMiddlewareP", "addLastModifiedHeader"]
+- !private ["6Kitura16RouterMiddlewareP", "generateETag"]
+- !private ["6Kitura16RouterMiddlewareP", "maxAgeCacheControlHeader"]
+- !private ["6Kitura16RouterMiddlewareP", "setMaxAge"]
+- !private ["6Kitura14RouterResponseC", "headers"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["9KituraNet8SPIUtilsC", "httpDate"]
+- !private ["ST", "Element"]
+- !private ["ST", "Index"]
+- !private ["ST", "Indices"]
+- !private ["ST", "Iterator"]
+- !private ["ST", "SubSequence"]
+- ["ST", ""]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "init"]
+- ["6Kitura16StaticFileServerC", "Bool"]
+- ["6Kitura16StaticFileServerC", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16StaticFileServerC", "Date"]
+- ["6Kitura16StaticFileServerC", "FileAttributeKey"]
+- ["6Kitura16StaticFileServerC", "Int"]
+- !private ["6Kitura16StaticFileServerC", "NSNumber"]
+- ["6Kitura16StaticFileServerC", "ResponseHeadersSetter"]
+- ["6Kitura16StaticFileServerC", "RouterResponse"]
+- !private ["6Kitura16StaticFileServerC", "SPIUtils"]
+- ["6Kitura16StaticFileServerC", "String"]
+- ["6Kitura16StaticFileServerC", ""]
+- !private ["6Kitura16StaticFileServerC", "addETag"]
+- !private ["6Kitura16StaticFileServerC", "addLastModified"]
+- !private ["6Kitura16StaticFileServerC", "addLastModifiedHeader"]
+- !private ["6Kitura16StaticFileServerC", "generateETag"]
+- !private ["6Kitura16StaticFileServerC", "maxAgeCacheControlHeader"]
+- !private ["6Kitura16StaticFileServerC", "setMaxAge"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- !private ["Sy", "init"]
+- ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", ""]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "modificationDate"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "size"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "modificationDate"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+- !private ["s20_SwiftNewtypeWrapperP", "modificationDate"]
+- !private ["s20_SwiftNewtypeWrapperP", "size"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "SK"
+- !private "Sz"
+- !private "s7CVarArgP"
+- "6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC"
+- "Sl"
+- "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- !private "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So18NSFileAttributeKeya"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "6Kitura7HeadersV"
+- !private "15KituraContracts10IdentifierP"
+- !private "Si"
+- "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "Sj"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "6Kitura21ResponseHeadersSetterP"
+- "6Kitura16RouterMiddlewareP"
+- !private "6Kitura14RouterResponseC"
+- !private "s10SIMDScalarP"
+- !private "9KituraNet8SPIUtilsC"
+- "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- "6Kitura16StaticFileServerC"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CHTTPParser/include/utils.h"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Kitura.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/TypeDecoder.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraContracts.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/checkouts/Kitura-net/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3e377a3b0d95253c2f66d6c64e129b4e"

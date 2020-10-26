@@ -1,0 +1,303 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "__fd_set_count"
+provides-nominal:
+provides-member:
+- ["6SocketAAC7AddressO", ""]
+- ["So6fd_setV", ""]
+- ["6SocketAAC7AddressO", "withSockAddrPointer"]
+- ["6SocketAAC7AddressO", "init"]
+- ["So6fd_setV", "withCArrayAccess"]
+- ["So6fd_setV", "zero"]
+- ["So6fd_setV", "set"]
+- ["So6fd_setV", "clear"]
+- ["So6fd_setV", "isSet"]
+provides-dynamic-lookup:
+depends-top-level:
+- "!="
+- !private "%"
+- "&"
+- "&="
+- "/"
+- !private "<<"
+- !private "AF_INET"
+- !private "AF_INET6"
+- !private "AF_UNIX"
+- "AssignmentPrecedence"
+- "Bool"
+- "FloatLiteralType"
+- "Int"
+- "Int32"
+- "IntegerLiteralType"
+- "MemoryLayout"
+- "Socket"
+- !private "UInt32"
+- "UnsafeMutablePointer"
+- "UnsafeMutableRawPointer"
+- "UnsafePointer"
+- "Void"
+- "__DARWIN_FD_SETSIZE"
+- "__fd_set_count"
+- !private "castAndCall"
+- "fd_set"
+- !private "fds_bits"
+- "sockaddr"
+- "sockaddr_in"
+- "sockaddr_in6"
+- !private "sockaddr_storage"
+- "sockaddr_un"
+- "socklen_t"
+- !private "withCArrayAccess"
+- "withUnsafeMutablePointer"
+- !private "withUnsafePointer"
+- "|="
+- "~"
+- !private "~="
+depends-member:
+- ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "callAsFunction"]
+- ["s18AdditiveArithmeticP", "init"]
+- !private ["6SocketAAC7AddressO", "AF_INET"]
+- !private ["6SocketAAC7AddressO", "AF_INET6"]
+- !private ["6SocketAAC7AddressO", "AF_UNIX"]
+- !private ["6SocketAAC7AddressO", "Int32"]
+- !private ["6SocketAAC7AddressO", "MemoryLayout"]
+- !private ["6SocketAAC7AddressO", "Socket"]
+- ["6SocketAAC7AddressO", "UnsafeMutablePointer"]
+- ["6SocketAAC7AddressO", "UnsafePointer"]
+- ["6SocketAAC7AddressO", "Void"]
+- ["6SocketAAC7AddressO", ""]
+- !private ["6SocketAAC7AddressO", "castAndCall"]
+- ["6SocketAAC7AddressO", "init"]
+- ["6SocketAAC7AddressO", "ipv4"]
+- ["6SocketAAC7AddressO", "ipv6"]
+- ["6SocketAAC7AddressO", "sockaddr"]
+- !private ["6SocketAAC7AddressO", "sockaddr_in"]
+- !private ["6SocketAAC7AddressO", "sockaddr_in6"]
+- !private ["6SocketAAC7AddressO", "sockaddr_storage"]
+- !private ["6SocketAAC7AddressO", "sockaddr_un"]
+- ["6SocketAAC7AddressO", "socklen_t"]
+- ["6SocketAAC7AddressO", "unix"]
+- ["6SocketAAC7AddressO", "withSockAddrPointer"]
+- !private ["6SocketAAC7AddressO", "withUnsafeMutablePointer"]
+- !private ["6SocketAAC7AddressO", "withUnsafePointer"]
+- ["Sz", ""]
+- !private ["Sz", "callAsFunction"]
+- ["Sz", "init"]
+- !private ["s7CVarArgP", "callAsFunction"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "initialize"]
+- !private ["s7CVarArgP", "pointee"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "withMemoryRebound"]
+- ["SL", ""]
+- !private ["SL", "assumingMemoryBound"]
+- !private ["SL", "callAsFunction"]
+- ["SL", "init"]
+- !private ["SL", "initialize"]
+- !private ["SL", "pointee"]
+- !private ["SL", "subscript"]
+- !private ["SL", "withMemoryRebound"]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "assumingMemoryBound"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "initialize"]
+- !private ["s28CustomDebugStringConvertibleP", "pointee"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "withMemoryRebound"]
+- !private ["s17CustomReflectableP", ""]
+- !private ["s17CustomReflectableP", "assumingMemoryBound"]
+- !private ["s17CustomReflectableP", "callAsFunction"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "initialize"]
+- !private ["s17CustomReflectableP", "pointee"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "withMemoryRebound"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "callAsFunction"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "assumingMemoryBound"]
+- !private ["Se", "callAsFunction"]
+- ["Se", "init"]
+- !private ["SE", "assumingMemoryBound"]
+- !private ["SE", "callAsFunction"]
+- ["SE", "init"]
+- ["SQ", ""]
+- !private ["SQ", "assumingMemoryBound"]
+- !private ["SQ", "callAsFunction"]
+- ["SQ", "init"]
+- !private ["SQ", "initialize"]
+- !private ["SQ", "pointee"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "withMemoryRebound"]
+- ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "callAsFunction"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "assumingMemoryBound"]
+- !private ["s17FixedWidthIntegerP", "callAsFunction"]
+- ["s17FixedWidthIntegerP", "init"]
+- ["SH", ""]
+- !private ["SH", "assumingMemoryBound"]
+- !private ["SH", "callAsFunction"]
+- ["SH", "init"]
+- !private ["SH", "initialize"]
+- !private ["SH", "pointee"]
+- !private ["SH", "subscript"]
+- !private ["SH", "withMemoryRebound"]
+- !private ["Si", "callAsFunction"]
+- ["Si", "init"]
+- !private ["s5Int32V", "init"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "callAsFunction"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s12MemoryLayoutO", "size"]
+- !private ["s10MirrorPathP", "callAsFunction"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", ""]
+- ["Sj", ""]
+- !private ["Sj", "callAsFunction"]
+- ["Sj", "init"]
+- !private ["Sq", "assumingMemoryBound"]
+- !private ["s10SIMDScalarP", "callAsFunction"]
+- ["s10SIMDScalarP", "init"]
+- !private ["SZ", "callAsFunction"]
+- ["SZ", "init"]
+- ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "callAsFunction"]
+- ["s13SignedNumericP", "init"]
+- ["6SocketAAC", "Address"]
+- !private ["6Socket0A6ReaderP", "Address"]
+- !private ["6Socket0A6WriterP", "Address"]
+- ["Sx", ""]
+- !private ["Sx", "assumingMemoryBound"]
+- !private ["Sx", "callAsFunction"]
+- ["Sx", "init"]
+- !private ["Sx", "initialize"]
+- !private ["Sx", "pointee"]
+- !private ["Sx", "subscript"]
+- !private ["Sx", "withMemoryRebound"]
+- !private ["s6UInt32V", "init"]
+- !private ["Sp", "initialize"]
+- !private ["Sp", "subscript"]
+- !private ["Sp", "withMemoryRebound"]
+- !private ["Sv", "assumingMemoryBound"]
+- !private ["Sv", "init"]
+- !private ["SP", "pointee"]
+- !private ["SP", "withMemoryRebound"]
+- !private ["SU", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "assumingMemoryBound"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "callAsFunction"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "initialize"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "pointee"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "withMemoryRebound"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "callAsFunction"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "callAsFunction"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "assumingMemoryBound"]
+- !private ["s21_ObjectiveCBridgeableP", "callAsFunction"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s8_PointerP", "assumingMemoryBound"]
+- !private ["s8_PointerP", "init"]
+- !private ["s8_PointerP", "initialize"]
+- !private ["s8_PointerP", "pointee"]
+- !private ["s8_PointerP", "subscript"]
+- !private ["s8_PointerP", "withMemoryRebound"]
+- ["So6fd_setV", "Bool"]
+- ["So6fd_setV", "Int"]
+- ["So6fd_setV", "Int32"]
+- !private ["So6fd_setV", "UInt32"]
+- ["So6fd_setV", "UnsafeMutablePointer"]
+- !private ["So6fd_setV", "UnsafeMutableRawPointer"]
+- ["So6fd_setV", ""]
+- !private ["So6fd_setV", "__fd_set_count"]
+- !private ["So6fd_setV", "_fd_set_count"]
+- !private ["So6fd_setV", "address"]
+- ["So6fd_setV", "clear"]
+- !private ["So6fd_setV", "fd_set"]
+- !private ["So6fd_setV", "fds_bits"]
+- ["So6fd_setV", "isSet"]
+- ["So6fd_setV", "set"]
+- ["So6fd_setV", "withCArrayAccess"]
+- !private ["So6fd_setV", "withUnsafeMutablePointer"]
+- ["So6fd_setV", "zero"]
+- !private ["So16sockaddr_storageV", "init"]
+- !private ["So16sockaddr_storageV", "ss_family"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "6SocketAAC7AddressO"
+- "Sz"
+- "s7CVarArgP"
+- "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s17FixedWidthIntegerP"
+- "SH"
+- "Si"
+- !private "s5Int32V"
+- "s25LosslessStringConvertibleP"
+- !private "s12MemoryLayoutO"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "Sj"
+- !private "Sq"
+- "s10SIMDScalarP"
+- "SZ"
+- "s13SignedNumericP"
+- "6SocketAAC"
+- !private "6Socket0A6ReaderP"
+- !private "6Socket0A6WriterP"
+- "Sx"
+- !private "s6UInt32V"
+- !private "Sp"
+- !private "Sv"
+- !private "SP"
+- !private "SU"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- "So6fd_setV"
+- !private "So16sockaddr_storageV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Kitura.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/TypeDecoder.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraContracts.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "55361062c18e4ea0975fcbe453c29096"

@@ -1,0 +1,77 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LogHandler"
+provides-nominal:
+- "7Logging10LogHandlerP"
+provides-member:
+- ["7Logging10LogHandlerP", ""]
+- ["7Logging10LogHandlerP", "log"]
+- ["7Logging10LogHandlerP", "log"]
+provides-dynamic-lookup:
+depends-top-level:
+- "LogHandler"
+- "Logger"
+- "Logging"
+- "String"
+- "UInt"
+depends-member:
+- ["Sl", "Value"]
+- ["s28CustomDebugStringConvertibleP", "Value"]
+- ["s17CustomReflectableP", "Value"]
+- ["s23CustomStringConvertibleP", "Value"]
+- ["Se", "Value"]
+- ["SD", "Value"]
+- ["SE", "Value"]
+- ["SQ", "Value"]
+- ["SQ", ""]
+- ["s30ExpressibleByDictionaryLiteralP", "Value"]
+- ["SH", "Value"]
+- ["7Logging10LogHandlerP", "Logger"]
+- ["7Logging10LogHandlerP", "Logging"]
+- ["7Logging10LogHandlerP", "String"]
+- ["7Logging10LogHandlerP", "UInt"]
+- ["7Logging10LogHandlerP", ""]
+- ["7Logging10LogHandlerP", "log"]
+- ["7Logging10LogHandlerP", "logLevel"]
+- ["7Logging10LogHandlerP", "metadata"]
+- ["7Logging10LogHandlerP", "subscript"]
+- ["7Logging6LoggerV", "Level"]
+- ["7Logging6LoggerV", "Message"]
+- ["7Logging6LoggerV", "Metadata"]
+- !private ["7Logging6LoggerV", "currentModule"]
+- ["ST", "Value"]
+- ["ST", ""]
+- ["s35_HasCustomAnyHashableRepresentationP", "Value"]
+depends-nominal:
+- "Sl"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SD"
+- "SE"
+- "SQ"
+- "s30ExpressibleByDictionaryLiteralP"
+- "SH"
+- "7Logging10LogHandlerP"
+- "7Logging6LoggerV"
+- "ST"
+- "s35_HasCustomAnyHashableRepresentationP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/LoggerAPI.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Kitura.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/SSLService.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Logging.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/TypeDecoder.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/HeliumLogger.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraContracts.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/KituraNet.build/module.modulemap"
+- "/Users/rjandaya/Downloads/CPSC 411/RestfulServer/.build/x86_64-apple-macosx/debug/Socket.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+interface-hash: "c3c4a0564eebd10bdb21c4207c2109a7"
